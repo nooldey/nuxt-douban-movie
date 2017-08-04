@@ -1,5 +1,8 @@
 # nuxt-ssr-learing
-【仅接入接口，无样式】just a very simple demo for trying Nuxt.js with no-style
+
+【仅接入接口，无样式】
+
+just a very simple demo for trying Nuxt.js with no-style
 
 ## Progress
 
